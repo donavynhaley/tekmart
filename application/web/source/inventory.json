@@ -1,0 +1,32 @@
+[
+  {
+    "price": 5000,
+    "title": "Product 1",
+    "description": "product 1 description",
+    "stock": 10
+  },
+  {
+    "price": 5000,
+    "title": "Product 2",
+    "description": "product 2 description",
+    "stock": 10
+  },
+  {
+    "price": 100,
+    "title": "Product 3",
+    "description": "product 3 description",
+    "stock": 0
+  },
+  {
+    "price": 1000000,
+    "title": "Product 4",
+    "description": "product 4 description",
+    "stock": 0
+  },
+  {
+    "price": 0,
+    "title": "Product 5",
+    "description": "product 5 description",
+    "stock": 0
+  }
+]

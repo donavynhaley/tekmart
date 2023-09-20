@@ -1,0 +1,6 @@
+.idea/
+.vscode
+/node_modules
+/application/web/source/nbproject/private/
+**/*.DS_Store
+**/nbproject
